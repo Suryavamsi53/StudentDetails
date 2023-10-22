@@ -1,0 +1,6 @@
+0747, Aurora, 13, F, Arizona USA, Maths, 3
+0848, John, 14, M, Colorado USA, Physics, 2
+0948, Michel, 14, M, Indiana USA, Chemistry, 1
+2232, Alex, 15, M, Michigan USA, Biology, 1
+3212, Nick, 12, M, Utah USA, English, 1
+0545, Nancy, 12, F, Alaska USA, Zoology, 1
