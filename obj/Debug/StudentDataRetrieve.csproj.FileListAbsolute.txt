@@ -1,0 +1,7 @@
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\bin\Debug\StudentDataRetrieve.exe.config
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\bin\Debug\StudentDataRetrieve.exe
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\bin\Debug\StudentDataRetrieve.pdb
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\obj\Debug\StudentDataRetrieve.csproj.AssemblyReference.cache
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\obj\Debug\StudentDataRetrieve.csproj.CoreCompileInputs.cache
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\obj\Debug\StudentDataRetrieve.exe
+C:\Users\Surya\source\repos\StudentDataRetrieve\StudentDataRetrieve\obj\Debug\StudentDataRetrieve.pdb
